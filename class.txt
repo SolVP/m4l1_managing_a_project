@@ -11,3 +11,8 @@ Fuchsia
 Purple
 Brown
 Red
+Yellow
+Blue
+Orange Green
+Purple
+Khaki
